@@ -4,4 +4,4 @@
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
 
 
-[CI](https://github.com/12FICUS12/ahj-homeworks/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/12FICUS12/ahj-homeworks/actions/workflows/web.yml/badge.svg)
